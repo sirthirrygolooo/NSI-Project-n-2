@@ -1,5 +1,10 @@
 from image_manip import *
 
+"""
+Fonction qui applique un effet de quantification a l'image prise en paramètre 
+
+"""
+
 def quantification(image):
     
     # prend les dimensions de l'image et les attribue dans les variables correspondantes variables hauteur et largeur 

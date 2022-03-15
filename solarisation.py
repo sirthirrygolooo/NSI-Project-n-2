@@ -22,7 +22,7 @@ def solarisation(image):
                 # change le type en list pour pouvoir modifier les valeures
                 hsl = list(rgb_to_hsl(rgb))
                 # attribue la saturation opposée 
-                hsl[0] = 360 - (180 - hsl[0])
+                hsl[0]=360-(180-hsl[0])
                 # crée un nouveau pixel avec les valeures et repasse les valeurs en rgb tout en remettant sous forme de tuple
                 new = hsl_to_rgb(tuple(hsl))
                 put_pixel(new_pic, (k, i), new)

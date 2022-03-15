@@ -1,11 +1,11 @@
-# NSI-Project-n-2
-Picture processing and taquin game
+<!-- -->
 
 # README projet de NSI n°2 Mars 2022  
 
 Informations techniques relatives au projet et à son
 fonctionnement.
 
+***
 
 ## __Sommaire__ :
 
@@ -28,6 +28,18 @@ un programme de traitement d'images de par l'application de différents filtres 
 ***
 
 ### __Installation__ 
+> Depuis github
+<!--  -->
+Cloner le dépot :
+
+        git clone https://github.com/sirthirrygolooo/NSI-Project-n-2
+
+Aller dans le répertoire requis avec 
+
+        cd NSI-Project-n-2
+
+Une fois dans le dossier :
+
 >Lancer le fichier de configuration windows (launch.bat) et dans le cas ou vous n'avez pas les bibliothèques requises, utilisez l'option I afin de les installer (cela requiert d'avoir le module pip fourni avec python)  
 <!--  -->
 >Une fois les bibliothèques installées, utilisez l'option S pour lancer le programme et suivez les instructions/propositions à l'écran.
@@ -61,13 +73,19 @@ Ce projet n'est pas complètement achevé : seule la partie traitement d'image e
 
 Ce projet a été développé sous python 3.8.2 et prend en compte les formats d'image suivants :
 
-- [x] PNG --> Format recommané
+- [x] PNG --> Format recommandé
 - [x] JPG
 - [ ] GIF
 - [x] BNP
 - [x] SVG
 
 ***
+![Github](https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png "github logo")
+
+Projet disponible sur github via ce lien :
+
+[Lien Github vers NSI-Project-n-2](https://github.com/sirthirrygolooo/NSI-Project-n-2 "Lien github du projet")
+
 
 
 
