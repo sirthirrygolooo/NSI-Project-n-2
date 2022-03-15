@@ -79,6 +79,7 @@ Ce projet a été développé sous python 3.8.2 et prend en compte les formats d
 - [x] BNP
 - [x] SVG
 
+__Attentention ! Certains filtres peuvent mettre du temps à s'appliquer du fait du traitement pixel par pixel qui peut prendre du temps (2073600 pixels a traiter pour une image en 1920x1080)__
 ***
 ![Github](https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png "github logo")
 
