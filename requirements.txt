@@ -1,0 +1,4 @@
+# Name of libraries to install 
+Pillow 
+# Matplotlib
+TK
