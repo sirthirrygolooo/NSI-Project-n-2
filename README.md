@@ -64,7 +64,7 @@ __Pour des raisons de compatibilité avec pillow, python 3.8.2 est fortement sug
 
 ### __A propos__
 
-Projet réalisé par __Deroze Clément__, __Godel Oxane__, __Sutter Gautier__ et __Froehly Jean-Baptiste__ dans le cadre du projet de NSI.  
+Projet réalisé par __Deroze Clément__, __Godel Oxane__, __Sutter Gautier__ et __SirThirrygoloooo__ dans le cadre du projet de NSI.  
 Ce projet n'est pas complètement achevé : seule la partie traitement d'image est fonctionnelle mais pas la partie taquin qui ne permet pas d'utiliser une image.
 
 ***
